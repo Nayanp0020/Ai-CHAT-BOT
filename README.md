@@ -118,7 +118,9 @@ npm run preview
 
 ## 📸 Screenshots
 
-Add screenshots of your chatbot interface here.
+### Chat Interface
+
+![AI Chatbot Screenshot](images/chatbot-home.png)
 
 ---
 
