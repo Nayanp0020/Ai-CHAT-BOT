@@ -7,7 +7,7 @@ An intelligent AI-powered chatbot built using React JS and Vite, designed to pro
 🔗 Add your deployed project link here
 
 Example:
-https://your-chatbot-demo.vercel.app
+https://ai-chat-bot-8trj.vercel.app/
 
 ---
 
